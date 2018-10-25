@@ -1,0 +1,7 @@
+#!/bin/python
+
+printf('Hello World')
+
+str('Hello World')
+
+
